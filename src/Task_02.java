@@ -28,7 +28,7 @@ public class Task_02 {
         }
         return 0;
     }
-    public int getSum (){
+    public int getAnswer (){
         return sum;
     }
 }

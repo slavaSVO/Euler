@@ -18,7 +18,7 @@ public class Task_01 {
         }
         return sum;
     }
-    public int getSum (){
+    public int getAnswer (){
         return sum;
     }
 }
